@@ -13,5 +13,7 @@
 - Чистый код по запросу
 - Положил файл в чат дипсика и все работает! (или вставил промпт)
 **Совместимость:** DeepSeek (и другие ИИ, если повезёт)
+<img width="704" height="165" alt="image" src="https://github.com/user-attachments/assets/a1731ea6-3392-433a-ac47-89417689d909" />
+<img width="711" height="245" alt="image" src="https://github.com/user-attachments/assets/220ca2b1-a163-49a8-acbe-35d5d0e6bfcc" />
 
 **Авторы:** Just_Damir, DeepSeek AI
